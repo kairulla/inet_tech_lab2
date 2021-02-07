@@ -76,6 +76,13 @@
 ```
 # Таблица из изученных тегов и их действий:
 
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>ВТиП-202_Қайрулла_лр1</title>
+	</head>
+	<body>
 <table>
 <thead>
 	<tr>
@@ -200,4 +207,5 @@
     </tr>
 </tbody>
 </table>
-
+</body>
+</html>
