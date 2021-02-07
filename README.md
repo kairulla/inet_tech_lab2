@@ -75,8 +75,8 @@
 ```
 # Таблица из изученных тегов и их действий:
 
-<table>
-<thead>
+<table border="1">
+<thead style="background: #fc0">
 	<tr>
 		<th>№</th>
 		<th>Тег</th>
