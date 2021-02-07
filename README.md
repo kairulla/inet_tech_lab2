@@ -93,9 +93,9 @@
 <tbody>
 	<tr>
 		<td>01</td>
-		<td><xmp><html></xmp><br>
-		<xmp>...</xmp><br>
-		<xmp></html></xmp></td>
+		<td><html><br>
+		...<br>
+		</html></td>
 		<td>HTML документ - обязательный</td>
 	</tr>
 	
