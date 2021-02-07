@@ -93,7 +93,8 @@
 <tbody>
 	<tr>
 		<td>01</td>
-		<td><html><br>
+		<td>
+		<xmp><html></xmp><br>
 		...<br>
 		</html></td>
 		<td>HTML документ - обязательный</td>
