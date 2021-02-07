@@ -94,7 +94,7 @@
 	<tr>
 		<td>01</td>
 		<td>
-		<xmp><html></xmp><br>
+		&lt;html&gt;<br>
 		...<br>
 		</html></td>
 		<td>HTML документ - обязательный</td>
